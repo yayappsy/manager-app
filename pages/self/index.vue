@@ -4,7 +4,6 @@
 		<view>
 			<text class="title">{{title}}</text>
 		</view>
-		<i :class="title"></i>
 	</view>
 </template>
 
@@ -12,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'fa fa-spinner fa-spin'
+				title: 'Hello'
 			}
 		},
 		onLoad() {
