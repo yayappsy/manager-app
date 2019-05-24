@@ -27,24 +27,24 @@
 	},
 	"tabBar": {
         "color": "#7A7E83",
-        "selectedColor": "#3cc51f",
+        "selectedColor": "#2D7C9A",
         "borderStyle": "black",
         "backgroundColor": "#ffffff",
         "list": [{
             "pagePath": "pages/index/index",
-            "iconPath": "static/logo.png",
-            "selectedIconPath": "static/logo.png",
+            "iconPath": "static/png/tabBar/tool1.png",
+            "selectedIconPath": "static/png/tabBar/tool2.png",
             "text": "工具"
         }, {
             "pagePath": "pages/team/index",
-            "iconPath": "static/logo.png",
-            "selectedIconPath": "static/logo.png",
+            "iconPath": "static/png/tabBar/team1.png",
+            "selectedIconPath": "static/png/tabBar/team2.png",
             "text": "集体"
         },
 		{
 		    "pagePath": "pages/self/index",
-		    "iconPath": "static/logo.png",
-		    "selectedIconPath": "static/logo.png",
+		    "iconPath": "static/png/tabBar/user.png",
+		    "selectedIconPath": "static/png/tabBar/user2.png",
 		    "text": "我的"
 		}]
     }
